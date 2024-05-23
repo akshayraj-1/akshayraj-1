@@ -8,6 +8,6 @@
 - React, Node.js, Socket.IO, Express
 
 
-## 🌱 Currently Learning
+## Currently Learning
 - Android (Java)
 - React
