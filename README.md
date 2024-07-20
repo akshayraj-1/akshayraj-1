@@ -12,7 +12,7 @@ Student Chapter website for ACM Chapter Chitkara University, Himachal Pradesh. A
 - **Key Features**: Event calendars, member directories.
 - **Technology Stack**: React, Firebase.
 
-#### [ByteThreads - Ephemeral Chat](https://bytethreads.web.app)
+#### [QwikChat - Ephemeral Chat](https://qwikchat.web.app)
 Realtime temporary chat web app designed for quick, seamless, and ephemeral conversations. Create/Join rooms, and send messages instantly without the need for account creation.
 
 - **Key Features**: Real-time messaging, ephemeral chat rooms, no account requirement, secure communication.
