@@ -1,5 +1,16 @@
 ## Projects
 
+#### [ImageCompressor](https://imgcompressor-app.web.app)
+A user-friendly app designed to compress images with a single click, making it easier to reduce image file sizes without compromising quality.
+
+<details>
+  <summary>Key Features & Technology Stack</summary>
+  
+  - One-click image compression, high-quality retention, batch processing.
+  - Frontend: React (Vite), Backend: PHP (Custom Compressor API).
+  
+</details>
+
 #### [QwikChat - Ephemeral Chat](https://qwikchat.web.app)
 Realtime temporary chat web app designed for quick, seamless, and ephemeral conversations. Create/Join rooms, and send messages instantly without the need for account creation.
 
