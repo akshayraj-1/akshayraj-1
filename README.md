@@ -1,6 +1,6 @@
 ## Projects
 
-#### [ImageCompressor](https://imgcompressor-app.web.app)
+#### [imgCompressor - Online Image Compressor](https://imgcompressor-app.web.app)
 A user-friendly app designed to compress images with a single click, making it easier to reduce image file sizes without compromising quality.
 
 <details>
