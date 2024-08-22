@@ -52,7 +52,7 @@ Student Chapter website for ACM Chapter Chitkara University, Himachal Pradesh. A
 
 ---
 
-#### [WallStroke](https://play.google.com/store/apps/details?id=com.appy.wallstroke)
+#### [WallStroke - Wallpaper App](https://play.google.com/store/apps/details?id=com.appy.wallstroke)
 Wallpaper application designed to enhance device personalization. User-friendly interface, allowing users to easily browse, download, and set wallpapers.
 
 <details>
