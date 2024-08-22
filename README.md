@@ -22,7 +22,7 @@ Realtime temporary chat web app designed for quick, seamless, and ephemeral conv
   
 </details>
 
-#### [City Harvest - Online Community App](https://city-harvest-app.web.app/)
+#### [City Harvest - Online Community App](https://city-harvest-app.web.app/) [BETA]
 An online social, community app specially designed for urban people to share and discover new gardening tips.
 
 <details>
