@@ -1,6 +1,6 @@
 ## Projects
 
-#### [ImgCompressor - Online Image Compressor](https://imgcompressor-app.web.app) [BETA]
+#### [BETA] [ImgCompressor - Online Image Compressor](https://imgcompressor-app.web.app)
 A user-friendly app designed to compress images with a single click, making it easier to reduce image file sizes without compromising quality.
 
 <details>
@@ -10,6 +10,8 @@ A user-friendly app designed to compress images with a single click, making it e
   - Frontend: React (Vite), Backend: PHP (Custom Compressor API).
   
 </details>
+
+---
 
 #### [QwikChat - Ephemeral Chat](https://qwikchat.web.app)
 Realtime temporary chat web app designed for quick, seamless, and ephemeral conversations. Create/Join rooms, and send messages instantly without the need for account creation.
@@ -22,7 +24,9 @@ Realtime temporary chat web app designed for quick, seamless, and ephemeral conv
   
 </details>
 
-#### [City Harvest - Online Community App](https://city-harvest-app.web.app/) [BETA]
+---
+
+#### [BETA] [City Harvest - Online Community App](https://city-harvest-app.web.app/)
 An online social, community app specially designed for urban people to share and discover new gardening tips.
 
 <details>
@@ -32,6 +36,8 @@ An online social, community app specially designed for urban people to share and
   - Java, Android Studio, Firebase.
   
 </details>
+
+---
 
 #### [ACM Student Chapter - CUHP](https://acmcuhp.web.app)
 Student Chapter website for ACM Chapter Chitkara University, Himachal Pradesh. An information hub for ACM chapter events, resources, and news.
@@ -43,6 +49,8 @@ Student Chapter website for ACM Chapter Chitkara University, Himachal Pradesh. A
   - React (Vite), Firebase.
   
 </details>
+
+---
 
 #### [WallStroke](https://play.google.com/store/apps/details?id=com.appy.wallstroke)
 Wallpaper application designed to enhance device personalization. User-friendly interface, allowing users to easily browse, download, and set wallpapers.
