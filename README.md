@@ -18,7 +18,7 @@ Realtime temporary chat web app designed for quick, seamless, and ephemeral conv
   <summary>Key Features & Technology Stack</summary>
   
   - Real-time messaging, ephemeral chat rooms, no account requirement, secure communication.
-  - React, Node.js, WebSockets (Socket.io), Firebase.
+  - React (Vite), Node.js, WebSockets (Socket.io), Firebase.
   
 </details>
 
@@ -29,7 +29,7 @@ Student Chapter website for ACM Chapter Chitkara University, Himachal Pradesh. A
   <summary>Key Features & Technology Stack</summary>
   
   - Event calendars, member directories.
-  - React, Firebase.
+  - React (Vite), Firebase.
   
 </details>
 
