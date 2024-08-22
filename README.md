@@ -22,6 +22,17 @@ Realtime temporary chat web app designed for quick, seamless, and ephemeral conv
   
 </details>
 
+#### [City Harvest - Online Community App](https://city-harvest-app.web.app/)
+An online social, community app specially designed for urban people to share and discover new gardening tips.
+
+<details>
+  <summary>Key Features & Technology Stack</summary>
+  
+  - Read Articles, Ask your queries in the community
+  - Java, Android Studio, Firebase.
+  
+</details>
+
 #### [ACM Student Chapter - CUHP](https://acmcuhp.web.app)
 Student Chapter website for ACM Chapter Chitkara University, Himachal Pradesh. An information hub for ACM chapter events, resources, and news.
 
