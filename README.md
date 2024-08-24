@@ -1,6 +1,6 @@
 ## Projects
 
-#### ![image](https://img.shields.io/badge/BETA-gray) [ImgCompressor - Online Image Compressor](https://imgcompressor-app.web.app)
+#### [BETA] [ImgCompressor - Online Image Compressor](https://imgcompressor-app.web.app)
 A user-friendly app designed to compress images with a single click, making it easier to reduce image file sizes without compromising quality.<br>
 Technology Stack:- Frontend: React (Vite), Backend: PHP (Custom Compressor API).
 
@@ -8,7 +8,7 @@ Technology Stack:- Frontend: React (Vite), Backend: PHP (Custom Compressor API).
 Realtime temporary chat web app designed for quick, seamless, and ephemeral conversations. Create/Join rooms, and send messages instantly without the need for account creation.<br>
 Technology Stack:- React (Vite), Node.js, WebSockets (Socket.io), Firebase.
 
-#### ![image](https://img.shields.io/badge/BETA-gray) [City Harvest - Online Community App](https://city-harvest-app.web.app/)
+#### [BETA] [City Harvest - Online Community App](https://city-harvest-app.web.app/)
 An online social, community app specially designed for urban people to share and discover new gardening tips.<br>
 Technology Stack:- Java, Android Studio, Firebase.
 
