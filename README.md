@@ -5,7 +5,7 @@
 #### [[BETA] City Harvest - Online Community App](https://city-harvest-app.web.app/)
 An online social, community app specially designed for urban people to share and discover new gardening tips.
 
-### 🌟 Stuff I've Built
+### 🌟 Projects I've Created
 #### [ImgCompressor - Online Image Compressor](https://imgcompressor-app.web.app)
 A user-friendly app designed to compress images with a single click, making it easier to reduce image file sizes without compromising quality.
 
