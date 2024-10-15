@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-### 🌟 Projects I've Created
+### Creations:
 - [[BETA] City Harvest - Community App](https://city-harvest-app.web.app/)
 - [ImgCompressor - Online Image Compressor](https://imgcompressor-app.web.app)
 - [QwikChat - Ephemeral Chat](https://qwikchat.web.app)
