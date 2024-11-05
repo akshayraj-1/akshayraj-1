@@ -1,6 +1,4 @@
-## 👋 Hi there!
-
-### Creations:
+## 👋
 - [**tempshare - file sharing**](https://www.npmjs.com/package/tempshare)
 - [[BETA] **City Harvest - Community App**](https://city-harvest-app.web.app/)
 - [**ImgCompressor - Online Image Compressor**](https://imgcompressor-app.web.app)
