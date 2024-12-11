@@ -1,4 +1,3 @@
-## 👋
 > [[BETA] **City Harvest - Community App**](https://city-harvest-app.web.app/) <br>
 > [**ImgCompressor - Online Image Compressor**](https://imgcompressor-app.web.app) <br>
 > [**QwikChat - Ephemeral Chat**](https://qwikchat.web.app) <br>
